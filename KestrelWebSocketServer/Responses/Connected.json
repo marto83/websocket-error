@@ -1,0 +1,17 @@
+{
+  "action": 4,
+  "connectionId": "s0pByDxVgW",
+  "connectionKey": "e02G8bJ2gApfYK!s0pByDxVgW9JZjuD-10e716e02G8bJ2gApfYK",
+  "connectionSerial": -1,
+  "connectionDetails": {
+    "clientId": "*",
+    "connectionKey": "e02G8bJ2gApfYK!s0pByDxVgW9JZjuD-10e716e02G8bJ2gApfYK",
+    "maxMessageSize": 16384,
+    "maxInboundRate": 250,
+    "maxOutboundRate": 100,
+    "maxFrameSize": 262144,
+    "serverId": "frontend.dcb5.1.eu-west-2-A.i-077ab941032883f85.e02G8bJ2gApfYK",
+    "connectionStateTtl": 120000,
+    "maxIdleInterval": 15000
+  }
+}
