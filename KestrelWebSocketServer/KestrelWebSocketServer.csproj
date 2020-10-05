@@ -6,7 +6,7 @@
 
   <ItemGroup>
     <Reference Include="Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed">
-      <HintPath>..\..\ably-dotnet\src\packages\Newtonsoft.Json.9.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <HintPath>..\..\..\Program Files\IIS\Microsoft Web Deploy V3\Newtonsoft.Json.dll</HintPath>
     </Reference>
   </ItemGroup>
 
